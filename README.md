@@ -4,6 +4,8 @@
 
 **Ancient Crash** 是一款網頁版的雙人 RPG 遊戲，玩家可選擇四種不同職業，每種職業會影響角色的屬性與技能。在前三個關卡中，兩名玩家會分別位於獨立的區域內戰鬥，若一方先擊敗區域內的怪物，則會增加另一方的怪物數量。通關後，玩家可進入商店購買裝備並提升戰力。最終，雙方將進入玩家對戰模式，考驗玩家的操作技巧與戰略。
 
+demo video: [link](https://drive.google.com/file/d/1RywVXohfPKvB7kKNKBxxyQDFy7gkYAC3/view?usp=sharing)
+
 ---
 
 ## 遊戲特色
